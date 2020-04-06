@@ -16,10 +16,10 @@
 ![image](https://github.com/vbnmzxc9513/pytorch_CNN_with_Augmentation/blob/master/img/pretrained_transformation.png)
 
 ### Resnet18 no use pretrained model and image random transformation in each epoch and balance dataloader as augumentation 
-![image](https://github.com/vbnmzxc9513/pytorch_CNN_with_Augmentation/blob/master/img/pretrained_transformation_dataloader_balance.png)
+![image](https://github.com/vbnmzxc9513/pytorch_CNN_with_Augmentation/blob/master/img/no_pretrained_transformation_dataloader_balance.png)
 
 ### Resnet18 use pretrained model and image random transformation in each epoch and balance dataloader as augumentation 
-![image](https://github.com/vbnmzxc9513/pytorch_CNN_with_Augmentation/blob/master/img/no_pretrained_transformation_dataloader_balance.png)
+![image](https://github.com/vbnmzxc9513/pytorch_CNN_with_Augmentation/blob/master/img/pretrained_transformation_dataloader_balance.png)
 
 ## Experiment
 
